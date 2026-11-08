@@ -1,0 +1,15 @@
+.dockerignore
+.eslintignore
+.eslintrc.json
+.git
+.github
+.gitignore
+.prettierignore
+.prettierrc.json
+.replit
+*.log
+Dockerfile
+LICENSE
+README.md
+node_modules
+replit.nix
